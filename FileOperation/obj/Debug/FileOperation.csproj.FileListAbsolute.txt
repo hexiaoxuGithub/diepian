@@ -1,0 +1,149 @@
+F:\项目\项目代码\新框架\20190322\yingyuFUframe\FileOperation\bin\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190322\yingyuFUframe\FileOperation\bin\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190322\yingyuFUframe\FileOperation\bin\Debug\dataStorage -fu.dll
+F:\项目\项目代码\新框架\20190322\yingyuFUframe\FileOperation\bin\Debug\halcondotnet.dll
+F:\项目\项目代码\新框架\20190322\yingyuFUframe\FileOperation\bin\Debug\halcondotnet.xml
+F:\项目\项目代码\新框架\20190322\yingyuFUframe\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+F:\项目\项目代码\新框架\20190322\yingyuFUframe\FileOperation\obj\Debug\FileOperation.csproj.CopyComplete
+F:\项目\项目代码\新框架\20190322\yingyuFUframe\FileOperation\obj\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190322\yingyuFUframe\FileOperation\obj\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190322\yingyuFUframe\FileOperation\obj\Debug\FileOperation.csprojAssemblyReference.cache
+F:\项目\项目代码\南京三期\GPC1811032称重机\20190711\yingyuFUframe\FileOperation\bin\Debug\FileOperation.dll
+F:\项目\项目代码\南京三期\GPC1811032称重机\20190711\yingyuFUframe\FileOperation\bin\Debug\FileOperation.pdb
+F:\项目\项目代码\南京三期\GPC1811032称重机\20190711\yingyuFUframe\FileOperation\bin\Debug\dataStorage -fu.dll
+F:\项目\项目代码\南京三期\GPC1811032称重机\20190711\yingyuFUframe\FileOperation\bin\Debug\halcondotnet.dll
+F:\项目\项目代码\南京三期\GPC1811032称重机\20190711\yingyuFUframe\FileOperation\bin\Debug\halcondotnet.xml
+F:\项目\项目代码\南京三期\GPC1811032称重机\20190711\yingyuFUframe\FileOperation\obj\Debug\FileOperation.csprojAssemblyReference.cache
+F:\项目\项目代码\南京三期\GPC1811032称重机\20190711\yingyuFUframe\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+F:\项目\项目代码\南京三期\GPC1811032称重机\20190711\yingyuFUframe\FileOperation\obj\Debug\FileOperation.csproj.CopyComplete
+F:\项目\项目代码\南京三期\GPC1811032称重机\20190711\yingyuFUframe\FileOperation\obj\Debug\FileOperation.dll
+F:\项目\项目代码\南京三期\GPC1811032称重机\20190711\yingyuFUframe\FileOperation\obj\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190711\yingyuFUframe\FileOperation\bin\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190711\yingyuFUframe\FileOperation\bin\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190711\yingyuFUframe\FileOperation\bin\Debug\dataStorage -fu.dll
+F:\项目\项目代码\新框架\20190711\yingyuFUframe\FileOperation\bin\Debug\halcondotnet.dll
+F:\项目\项目代码\新框架\20190711\yingyuFUframe\FileOperation\bin\Debug\halcondotnet.xml
+F:\项目\项目代码\新框架\20190711\yingyuFUframe\FileOperation\obj\Debug\FileOperation.csprojAssemblyReference.cache
+F:\项目\项目代码\新框架\20190711\yingyuFUframe\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+F:\项目\项目代码\新框架\20190711\yingyuFUframe\FileOperation\obj\Debug\FileOperation.csproj.CopyComplete
+F:\项目\项目代码\新框架\20190711\yingyuFUframe\FileOperation\obj\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190711\yingyuFUframe\FileOperation\obj\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190903\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190903\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190903\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+F:\项目\项目代码\新框架\20190903\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+F:\项目\项目代码\新框架\20190903\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+F:\项目\项目代码\新框架\20190903\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojAssemblyReference.cache
+F:\项目\项目代码\新框架\20190903\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+F:\项目\项目代码\新框架\20190903\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CopyComplete
+F:\项目\项目代码\新框架\20190903\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190903\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190903\新建文件夹\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190903\新建文件夹\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190903\新建文件夹\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+F:\项目\项目代码\新框架\20190903\新建文件夹\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+F:\项目\项目代码\新框架\20190903\新建文件夹\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+F:\项目\项目代码\新框架\20190903\新建文件夹\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojAssemblyReference.cache
+F:\项目\项目代码\新框架\20190903\新建文件夹\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+F:\项目\项目代码\新框架\20190903\新建文件夹\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CopyComplete
+F:\项目\项目代码\新框架\20190903\新建文件夹\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190903\新建文件夹\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190903\20190920halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190903\20190920halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190903\20190920halcon17\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+F:\项目\项目代码\新框架\20190903\20190920halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+F:\项目\项目代码\新框架\20190903\20190920halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+F:\项目\项目代码\新框架\20190903\20190920halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojAssemblyReference.cache
+F:\项目\项目代码\新框架\20190903\20190920halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+F:\项目\项目代码\新框架\20190903\20190920halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CopyComplete
+F:\项目\项目代码\新框架\20190903\20190920halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190903\20190920halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+C:\Users\fuyingyu\Desktop\20190921halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+C:\Users\fuyingyu\Desktop\20190921halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+C:\Users\fuyingyu\Desktop\20190921halcon17\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+C:\Users\fuyingyu\Desktop\20190921halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+C:\Users\fuyingyu\Desktop\20190921halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+C:\Users\fuyingyu\Desktop\20190921halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojAssemblyReference.cache
+C:\Users\fuyingyu\Desktop\20190921halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+C:\Users\fuyingyu\Desktop\20190921halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CopyComplete
+C:\Users\fuyingyu\Desktop\20190921halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+C:\Users\fuyingyu\Desktop\20190921halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190903\20190921halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190903\20190921halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190903\20190921halcon17\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+F:\项目\项目代码\新框架\20190903\20190921halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+F:\项目\项目代码\新框架\20190903\20190921halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+F:\项目\项目代码\新框架\20190903\20190921halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojAssemblyReference.cache
+F:\项目\项目代码\新框架\20190903\20190921halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+F:\项目\项目代码\新框架\20190903\20190921halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CopyComplete
+F:\项目\项目代码\新框架\20190903\20190921halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190903\20190921halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190903\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190903\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190903\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+F:\项目\项目代码\新框架\20190903\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+F:\项目\项目代码\新框架\20190903\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+F:\项目\项目代码\新框架\20190903\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojAssemblyReference.cache
+F:\项目\项目代码\新框架\20190903\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+F:\项目\项目代码\新框架\20190903\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CopyComplete
+F:\项目\项目代码\新框架\20190903\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190903\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190927\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190927\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+F:\项目\项目代码\新框架\20190927\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+F:\项目\项目代码\新框架\20190927\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+F:\项目\项目代码\新框架\20190927\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+F:\项目\项目代码\新框架\20190927\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojAssemblyReference.cache
+F:\项目\项目代码\新框架\20190927\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+F:\项目\项目代码\新框架\20190927\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CopyComplete
+F:\项目\项目代码\新框架\20190927\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+F:\项目\项目代码\新框架\20190927\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+D:\20190923halcon17\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+D:\20190923halcon17\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+D:\20190923halcon17\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+D:\20190923halcon17\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+D:\20190923halcon17\20190923halcon17\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+D:\20190923halcon17\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojResolveAssemblyReference.cache
+D:\20190923halcon17\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+D:\20190923halcon17\20190923halcon17\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+D:\蝴蝶焊\蝴蝶焊1105\蝴蝶焊1105\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+D:\蝴蝶焊\蝴蝶焊1105\蝴蝶焊1105\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+D:\蝴蝶焊\蝴蝶焊1105\蝴蝶焊1105\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+D:\蝴蝶焊\蝴蝶焊1105\蝴蝶焊1105\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+D:\蝴蝶焊\蝴蝶焊1105\蝴蝶焊1105\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+D:\蝴蝶焊\蝴蝶焊1105\蝴蝶焊1105\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojResolveAssemblyReference.cache
+D:\蝴蝶焊\蝴蝶焊1105\蝴蝶焊1105\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+D:\蝴蝶焊\蝴蝶焊1105\蝴蝶焊1105\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+D:\蝴蝶焊1106\蝴蝶焊1106\蝴蝶焊1105\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+D:\蝴蝶焊1106\蝴蝶焊1106\蝴蝶焊1105\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+D:\蝴蝶焊1106\蝴蝶焊1106\蝴蝶焊1105\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+D:\蝴蝶焊1106\蝴蝶焊1106\蝴蝶焊1105\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+D:\蝴蝶焊1106\蝴蝶焊1106\蝴蝶焊1105\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+D:\蝴蝶焊1106\蝴蝶焊1106\蝴蝶焊1105\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojResolveAssemblyReference.cache
+D:\蝴蝶焊1106\蝴蝶焊1106\蝴蝶焊1105\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+D:\蝴蝶焊1106\蝴蝶焊1106\蝴蝶焊1105\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+C:\Users\fuyingyu\Desktop\蝴蝶焊CCD软件\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+C:\Users\fuyingyu\Desktop\蝴蝶焊CCD软件\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+C:\Users\fuyingyu\Desktop\蝴蝶焊CCD软件\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+C:\Users\fuyingyu\Desktop\蝴蝶焊CCD软件\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+C:\Users\fuyingyu\Desktop\蝴蝶焊CCD软件\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+C:\Users\fuyingyu\Desktop\蝴蝶焊CCD软件\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojAssemblyReference.cache
+C:\Users\fuyingyu\Desktop\蝴蝶焊CCD软件\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+C:\Users\fuyingyu\Desktop\蝴蝶焊CCD软件\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csproj.CopyComplete
+C:\Users\fuyingyu\Desktop\蝴蝶焊CCD软件\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+C:\Users\fuyingyu\Desktop\蝴蝶焊CCD软件\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+C:\Users\hexiaoxu\Desktop\南京组装线\蝴蝶焊CCD软件20200117\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+C:\Users\hexiaoxu\Desktop\南京组装线\蝴蝶焊CCD软件20200117\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+C:\Users\hexiaoxu\Desktop\南京组装线\蝴蝶焊CCD软件20200117\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+C:\Users\hexiaoxu\Desktop\南京组装线\蝴蝶焊CCD软件20200117\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+C:\Users\hexiaoxu\Desktop\南京组装线\蝴蝶焊CCD软件20200117\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+C:\Users\hexiaoxu\Desktop\南京组装线\蝴蝶焊CCD软件20200117\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.csprojResolveAssemblyReference.cache
+C:\Users\hexiaoxu\Desktop\南京组装线\蝴蝶焊CCD软件20200117\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+C:\Users\hexiaoxu\Desktop\南京组装线\蝴蝶焊CCD软件20200117\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb
+D:\蝴蝶焊CCD软件20200118\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.dll
+D:\蝴蝶焊CCD软件20200118\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\bin\Debug\FileOperation.pdb
+D:\蝴蝶焊CCD软件20200118\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\bin\Debug\dataStorage -fu.dll
+D:\蝴蝶焊CCD软件20200118\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.dll
+D:\蝴蝶焊CCD软件20200118\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\bin\Debug\halcondotnet.xml
+D:\蝴蝶焊CCD软件20200118\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.dll
+D:\蝴蝶焊CCD软件20200118\蝴蝶焊CCD软件20200108\yingyuFuFrame\FileOperation\obj\Debug\FileOperation.pdb

@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yingyuFuFrame", "yingyuFuFrame\yingyuFuFrame.csproj", "{62AD8AF0-9111-474D-A54E-EB2652E466DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraFunction", "CameraFunction\CameraFunction.csproj", "{EBF2DFBD-556B-4449-A654-720AA8FBB834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileOperation", "FileOperation\FileOperation.csproj", "{3198266C-3BB0-49F6-AB7D-87F13DBC4847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewROI", "ViewROI\vs2005\ViewROI.csproj", "{C4F5C5DE-7EA8-47FE-8218-48138F48965F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalconImageOperation", "HalconImageOperation\HalconImageOperation.csproj", "{F8FC40A5-7F5E-4896-8F51-9560AFDB31D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HslCommunication_Net35", "HslCommunication-master\HslCommunication_Net35\HslCommunication_Net35.csproj", "{D3710B78-1B32-4D53-9604-0451A795A2F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HslCommunicationDemo", "HslCommunication-master\TestProject\HslCommunicationDemo\HslCommunicationDemo.csproj", "{3878075B-B8D7-4090-B094-29622581442F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communication", "Communication\Communication.csproj", "{9D7C01AF-D155-436A-89D3-A23379B86440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AD8AF0-9111-474D-A54E-EB2652E466DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AD8AF0-9111-474D-A54E-EB2652E466DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AD8AF0-9111-474D-A54E-EB2652E466DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AD8AF0-9111-474D-A54E-EB2652E466DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF2DFBD-556B-4449-A654-720AA8FBB834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF2DFBD-556B-4449-A654-720AA8FBB834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF2DFBD-556B-4449-A654-720AA8FBB834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF2DFBD-556B-4449-A654-720AA8FBB834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3198266C-3BB0-49F6-AB7D-87F13DBC4847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3198266C-3BB0-49F6-AB7D-87F13DBC4847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3198266C-3BB0-49F6-AB7D-87F13DBC4847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3198266C-3BB0-49F6-AB7D-87F13DBC4847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FC40A5-7F5E-4896-8F51-9560AFDB31D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FC40A5-7F5E-4896-8F51-9560AFDB31D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FC40A5-7F5E-4896-8F51-9560AFDB31D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FC40A5-7F5E-4896-8F51-9560AFDB31D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3710B78-1B32-4D53-9604-0451A795A2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3710B78-1B32-4D53-9604-0451A795A2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3710B78-1B32-4D53-9604-0451A795A2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3710B78-1B32-4D53-9604-0451A795A2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3878075B-B8D7-4090-B094-29622581442F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3878075B-B8D7-4090-B094-29622581442F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3878075B-B8D7-4090-B094-29622581442F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3878075B-B8D7-4090-B094-29622581442F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D7C01AF-D155-436A-89D3-A23379B86440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7C01AF-D155-436A-89D3-A23379B86440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7C01AF-D155-436A-89D3-A23379B86440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7C01AF-D155-436A-89D3-A23379B86440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E689059-B599-48B5-9FC9-FEE5AF6DFDFC}
+	EndGlobalSection
+EndGlobal
